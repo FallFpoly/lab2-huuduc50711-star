@@ -14,6 +14,6 @@ public class bai2 {
        int x = 5;
        int y = 6;
        int z = x + y;
-       System.out.println(z)
+       System.out.println(z);
     }
 }
